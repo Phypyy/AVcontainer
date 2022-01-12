@@ -89,6 +89,7 @@ STAR-469
 <br>
 <img src="http://www.heydodi.com/wp-content/uploads/2020/03/Minami-Aizawa-014.jpg" width="100">
 </details>
+
 ---
 
 ### N
