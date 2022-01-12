@@ -44,6 +44,9 @@
 <summary>Iori Kogawa</summary>
 <br>
 <img src="https://javmodel.com/javdata/uploads/iori_kogawa150.jpg" width="100">
+  STAR-578
+  STAR-549
+  STAR-469
 </details>
 
 ---
@@ -116,6 +119,7 @@
 <summary>Sakura Miura</summary>
 <br>
 <img src="https://javmodel.com/javdata/uploads/sakura_miura150.jpg" width="100">
+  MIDE-761
 </details>
 
 <details>
@@ -146,4 +150,5 @@
 
 ### Z
 ---
+
 
