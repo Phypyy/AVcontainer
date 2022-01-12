@@ -67,8 +67,7 @@ Men of culture!
 <details>
 <summary>Suzumori Remu</summary>
 <br>
-[<img src="https://static.wikia.nocookie.net/jav/images/5/59/Remu_Suzumori.jpg/revision/latest/scale-to-width-down/334?cb=20200502095136">](Suzumori Remu)
-This is how you dropdown.
+[<img src="https://static.wikia.nocookie.net/jav/images/5/59/Remu_Suzumori.jpg/revision/latest/scale-to-width-down/334?cb=20200502095136" width="200">]
 </details>
 ---
 
