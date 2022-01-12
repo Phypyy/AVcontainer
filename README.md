@@ -84,6 +84,11 @@ STAR-469
 <img src="https://hosonhanvat.net/wp-content/uploads/2021/07/Mei-Miyajima-3.jpg" width="100">
 </details>
 
+<details>
+<summary>Minami Aizawa</summary>
+<br>
+<img src="http://www.heydodi.com/wp-content/uploads/2020/03/Minami-Aizawa-014.jpg" width="100">
+</details>
 ---
 
 ### N
