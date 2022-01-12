@@ -13,61 +13,87 @@ Men of culture!
 ### A
 ---
 ### B
------
+---
 
 ### C
------
+---
 
 ### D
------
+---
 
 ### E
------
+---
 
 ### F
+---
 
 ### G
+---
 
 ### H
+---
 
 ### I
+---
 
 ### J
+---
 
 ### K
+---
 
 ### L
+---
 
 ### M
+---
 
 ### N
+---
 
 ### O
+---
 
 ### P
+---
 
 ### Q
+---
 
 ### R
+---
 
 ### S
+---
+<details>
+<summary>Suzumori Remu</summary>
+<br>
+This is how you dropdown.
+</details>
+
 
 ### T
+---
 
 ### U
+---
 
 ### V
+---
 
 ### W
+---
 
 ### X
+---
 
 ### Y
+---
 
 ### Z
+---
 
 
-Suzumori Remu
 Miura Sakura
 Otsushiro Sayaka
 Nanami Misaki
