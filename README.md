@@ -156,5 +156,5 @@ MIDE-761
 ### Z
 ---
 
-[Back to top](#Men of culture! :fire:)
+[Back to top](#Men of culture!)
 
