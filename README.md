@@ -156,4 +156,4 @@ MIDE-761
 ### Z
 ---
 
-[button url="http://www.google.com"]
+[Click me](http://www.google.com){: .btn}
