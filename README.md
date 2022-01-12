@@ -34,6 +34,12 @@
 ---
 
 ### I
+<details>
+<summary>Itou Mayuki</summary>
+<br>
+<img src="https://static.wikia.nocookie.net/jav/images/9/9e/Mayuki_Ito.jpeg/revision/latest/scale-to-width-down/333?cb=20201002193229" width="100">
+</details>
+
 ---
 
 ### J
@@ -55,6 +61,12 @@
 ---
 
 ### N
+<details>
+<summary>Nanami Misaki</summary>
+<br>
+<img src="https://static.wikia.nocookie.net/jav/images/c/c7/Nanami_Misaki.jpg/revision/latest/scale-to-width-down/350?cb=20211016191704" width="100">
+</details>
+
 ---
 
 ### O
@@ -105,8 +117,6 @@
 ### Z
 ---
 
-Nanami Misaki
-Itou Mayuki
 Kudou Rara
 Mitani Akari
 Miyajima Mei
