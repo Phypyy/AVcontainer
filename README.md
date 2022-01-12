@@ -92,11 +92,10 @@
 ---
 
 ### R
-https://cdn.japteenx.com/media/pornstars/covers/213.jpg
 <details>
 <summary>Rara Kudo</summary>
 <br>
-<img src="https://static.wikia.nocookie.net/jav/images/5/59/Remu_Suzumori.jpg/revision/latest/scale-to-width-down/334?cb=20200502095136" width="100">
+<img src="https://cdn.japteenx.com/media/pornstars/covers/213.jpg" width="100">
 </details>
 
 <details>
