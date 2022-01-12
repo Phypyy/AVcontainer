@@ -1,4 +1,5 @@
 # Men of culture!
+<img src="https://media.giphy.com/media/xWeHqN9rYl0A0kKL9b/giphy-downsized.gif">
 
 ## Name
 | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) |
@@ -15,6 +16,10 @@
 <summary>Akari Mitani</summary>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Akari_Mitani_IMG_5811-2.jpg/800px-Akari_Mitani_IMG_5811-2.jpg" width="100">
+ <br>
+ HND-772
+ <br>
+ DASD-824
 </details>
 
 ---
@@ -69,6 +74,8 @@ STAR-469
 <summary>Mayuki Ito</summary>
 <br>
 <img src="https://external-preview.redd.it/jRJmHCXXmvgY0Da-NBD0JqYPIRESHmUBaIXqsxcapIA.jpg?auto=webp&s=bb657095e768ad7fdd99d8fadc5657758fa82ece" width="100">
+ <br>
+ CAWD-163
 </details>
 
 <details>
@@ -93,6 +100,8 @@ STAR-469
 <summary>Otsushiro Sayaka</summary>
 <br>
 <img src="https://xslist.org/kojav/model2/96000/96905.jpg" width="100">
+ <br>
+ SSIS-152
 </details>
 
 ---
@@ -108,12 +117,16 @@ STAR-469
 <summary>Rara Kudo</summary>
 <br>
 <img src="https://cdn.japteenx.com/media/pornstars/covers/213.jpg" width="100">
+ <br>
+ WAAA-087
 </details>
 
 <details>
 <summary>Remu Suzumori</summary>
 <br>
 <img src="https://w3.javsx.com/upload/star/suzumori-remu.jpg" width="100">
+ <br>
+ ABW-087
 </details>
 
 ---
@@ -125,12 +138,20 @@ STAR-469
 <img src="https://javmodel.com/javdata/uploads/sakura_miura150.jpg" width="100">
   <br>
 MIDE-761
+ <br>
+ MIDE-872
 </details>
 
 <details>
 <summary>Suzu Honjo</summary>
 <br>
 <img src="https://www.catdumb.com/wp-content/uploads/2021/05/10-4.jpg" width="100">
+ <br>
+ STARS-353
+ <br>
+ STARS-322
+ <br>
+ STARS-372
 </details>
 
 ---
@@ -156,4 +177,4 @@ MIDE-761
 ### Z
 ---
 
-[create an anchor](#Men-of-culture)
+[Back to top!](#Men-of-culture)
