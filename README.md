@@ -110,7 +110,13 @@
 <details>
 <summary>Sakura Miura</summary>
 <br>
-<img src="https://static.wikia.nocookie.net/jav/images/3/3e/Sakura_Miura.jpg/revision/latest/scale-to-width-down/350?cb=20200417183708" width="100">
+<img src="https://javmodel.com/javdata/uploads/sakura_miura150.jpg" width="100">
+</details>
+
+<details>
+<summary>Suzu Honjo</summary>
+<br>
+<img src="https://www.catdumb.com/wp-content/uploads/2021/05/10-4.jpg" width="100">
 </details>
 
 ---
@@ -136,5 +142,3 @@
 ### Z
 ---
 
-Honjou Suzu
-Mitani Akari
