@@ -40,6 +40,11 @@
 ---
 
 ### I
+<details>
+<summary>Iori Kogawa</summary>
+<br>
+<img src="https://javmodel.com/javdata/uploads/iori_kogawa150.jpg" width="100">
+</details>
 
 ---
 
