@@ -45,9 +45,12 @@
 <br>
 <img src="https://javmodel.com/javdata/uploads/iori_kogawa150.jpg" width="100">
  <br>
-- STAR-578
-- STAR-549
-- STAR-469
+> STAR-578
+ <br>
+STAR-549
+ <br>
+STAR-469
+ <br>
 </details>
 
 ---
