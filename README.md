@@ -1,4 +1,4 @@
-# Men of culture! ::fire::
+# Men of culture! :fire:
 
 ## Name
 | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) |
@@ -46,12 +46,24 @@
 ---
 
 ### M
+<details>
+<summary>Miura Sakura</summary>
+<br>
+<img src="https://static.wikia.nocookie.net/jav/images/3/3e/Sakura_Miura.jpg/revision/latest/scale-to-width-down/350?cb=20200417183708" width="100">
+</details>
+
 ---
 
 ### N
 ---
 
 ### O
+<details>
+<summary>Otsushiro Sayaka</summary>
+<br>
+<img src="https://javmodel.com/javdata/uploads/sayaka-otoshiro150.jpg" width="100">
+</details>
+
 ---
 
 ### P
@@ -93,9 +105,6 @@
 ### Z
 ---
 
-
-Miura Sakura
-Otsushiro Sayaka
 Nanami Misaki
 Itou Mayuki
 Kudou Rara
