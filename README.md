@@ -14,7 +14,7 @@
 <details>
 <summary>Akari Mitani</summary>
 <br>
-<img src="https://static.wikia.nocookie.net/jav/images/b/b9/Akari_Mitani.jpg/revision/latest/scale-to-width-down/350?cb=20210205190459" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Akari_Mitani_IMG_5811-2.jpg/800px-Akari_Mitani_IMG_5811-2.jpg" width="100">
 </details>
 
 ---
@@ -56,13 +56,13 @@
 <details>
 <summary>Mayuki Ito</summary>
 <br>
-<img src="https://static.wikia.nocookie.net/jav/images/9/9e/Mayuki_Ito.jpeg/revision/latest/scale-to-width-down/333?cb=20201002193229" width="100">
+<img src="https://external-preview.redd.it/jRJmHCXXmvgY0Da-NBD0JqYPIRESHmUBaIXqsxcapIA.jpg?auto=webp&s=bb657095e768ad7fdd99d8fadc5657758fa82ece" width="100">
 </details>
 
 <details>
 <summary>Mei Miyajima</summary>
 <br>
-<img src="https://static.wikia.nocookie.net/jav/images/3/35/Mei_Miyajima.jpg/revision/latest/scale-to-width-down/333?cb=20200802095702" width="100">
+<img src="https://hosonhanvat.net/wp-content/uploads/2021/07/Mei-Miyajima-3.jpg" width="100">
 </details>
 
 ---
@@ -71,7 +71,7 @@
 <details>
 <summary>Nanami Misaki</summary>
 <br>
-<img src="https://static.wikia.nocookie.net/jav/images/c/c7/Nanami_Misaki.jpg/revision/latest/scale-to-width-down/350?cb=20211016191704" width="100">
+<img src="https://www.catdumb.tv/wp-content/uploads/2021/03/6-20.jpg" width="100">
 </details>
 
 ---
@@ -80,7 +80,7 @@
 <details>
 <summary>Otsushiro Sayaka</summary>
 <br>
-<img src="https://javmodel.com/javdata/uploads/sayaka-otoshiro150.jpg" width="100">
+<img src="https://xslist.org/kojav/model2/96000/96905.jpg" width="100">
 </details>
 
 ---
@@ -101,7 +101,7 @@
 <details>
 <summary>Remu Suzumori</summary>
 <br>
-<img src="https://static.wikia.nocookie.net/jav/images/5/59/Remu_Suzumori.jpg/revision/latest/scale-to-width-down/334?cb=20200502095136" width="100">
+<img src="https://w3.javsx.com/upload/star/suzumori-remu.jpg" width="100">
 </details>
 
 ---
