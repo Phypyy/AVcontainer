@@ -1,4 +1,4 @@
-# Men of culture!
+# Men of culture! 🔥
 
 ## Name
 | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) |
