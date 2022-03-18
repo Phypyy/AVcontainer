@@ -22,6 +22,13 @@
  DASD-824
 </details>
 
+<details>
+<summary>Aika Yamagishi</summary>
+<br>
+<img src="https://static.wikia.nocookie.net/jpop/images/c/c6/Img_member_shirt_yamagishi_aika.png/revision/latest/scale-to-width-down/350?cb=20200914182449" width="100">
+ <br>
+ PRED-140
+</details>
 ---
 ### B
 ---
