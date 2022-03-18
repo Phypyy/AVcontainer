@@ -151,6 +151,14 @@ STAR-469
  ABW-087
 </details>
 
+<details>
+<summary>Rena Miyashita</summary>
+<br>
+<img src="https://t1.blockdit.com/photos/2022/03/6225d4c6085531dbc1a9e418_800x0xcover_RfLMWXp4.jpg" width="100">
+ <br>
+ MIDV-075
+</details>
+
 ---
 
 ### S
