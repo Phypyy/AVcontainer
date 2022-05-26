@@ -176,6 +176,16 @@ MIDE-761
  STARS-372
 </details>
 
+<details>
+<summary>Sumire Kuramoto</summary>
+<br>
+<img src="https://www.javdatabase.com/idolimages/full/sumire-kuramoto.webp" width="100">
+ <br>
+ SHKD-994
+</details>
+
+
+
 ---
 
 ### T
