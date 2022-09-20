@@ -1,7 +1,8 @@
 # Men of culture!
-<a href="#">
+> :warning: **WARNING**
+> 18+ Content!!!
+
 <img src="https://media.giphy.com/media/xWeHqN9rYl0A0kKL9b/giphy-downsized.gif">
-</a>
 
 ## Name
 | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) |
