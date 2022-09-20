@@ -194,6 +194,13 @@ MIDE-761
  SHKD-994
 </details>
 
+<details>
+<summary>Sui Mizumori</summary>
+<br>
+<img src="https://mblogthumb-phinf.pstatic.net/MjAxOTExMDJfMTIz/MDAxNTcyNjU1NDgxMDUw.QPDcDj42dq6aihKbFSRph7IXu0HdddQZ0fKrlrvh8Pog.p1WAPTHTwLGLvoRyS75cMes3eG9w3JCOm7QyhnrYzogg.JPEG.world199/1572655480706.jpg?type=w800" width="100">
+ <br>
+ CJOD-224
+</details>
 
 
 ---
