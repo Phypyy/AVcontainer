@@ -22,6 +22,14 @@
  DASD-824
 </details>
 
+<details>
+<summary>Aika Yamagishi</summary>
+<br>
+<img src="https://static.wikia.nocookie.net/jpop/images/c/c6/Img_member_shirt_yamagishi_aika.png/revision/latest/scale-to-width-down/350?cb=20200914182449" width="100">
+ <br>
+ PRED-140
+</details>
+
 ---
 ### B
 ---
@@ -145,6 +153,14 @@ STAR-469
  ABW-087
 </details>
 
+<details>
+<summary>Rena Miyashita</summary>
+<br>
+<img src="https://t1.blockdit.com/photos/2022/03/6225d4c6085531dbc1a9e418_800x0xcover_RfLMWXp4.jpg" width="100">
+ <br>
+ MIDV-075
+</details>
+
 ---
 
 ### S
@@ -169,6 +185,16 @@ MIDE-761
  <br>
  STARS-372
 </details>
+
+<details>
+<summary>Sumire Kuramoto</summary>
+<br>
+<img src="https://www.javdatabase.com/idolimages/full/sumire-kuramoto.webp" width="100">
+ <br>
+ SHKD-994
+</details>
+
+
 
 ---
 
