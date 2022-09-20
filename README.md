@@ -1,5 +1,7 @@
 # Men of culture!
+<a href="#">
 <img src="https://media.giphy.com/media/xWeHqN9rYl0A0kKL9b/giphy-downsized.gif">
+</a>
 
 ## Name
 | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) |
@@ -16,7 +18,7 @@
 <summary>Akari Mitani</summary>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Akari_Mitani_IMG_5811-2.jpg/800px-Akari_Mitani_IMG_5811-2.jpg" width="100">
- <br>
+ <!-- <br> -->
  HND-772
  <br>
  DASD-824
