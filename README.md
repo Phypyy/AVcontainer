@@ -1,5 +1,5 @@
 # Men of culture!
-> :warning: **WARNING**
+> **Warning**
 > 18+ Content!!!
 
 <img src="https://media.giphy.com/media/xWeHqN9rYl0A0kKL9b/giphy-downsized.gif">
