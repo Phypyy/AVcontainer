@@ -105,6 +105,16 @@ SHKD-891
 ---
 
 ### K
+
+<details>
+<summary>Karen Kaede</summary>
+<br>
+<img src="https://i.ebayimg.com/images/g/bGEAAOSwIqNic6Fg/s-l1600.jpg" width="100">
+ <br>
+IPX-641
+ <br>
+</details>
+
 ---
 
 ### L
