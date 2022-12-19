@@ -115,6 +115,17 @@ IPX-641
  <br>
 </details>
 
+<details>
+<summary>Karen Yuzuriha</summary>
+<br>
+<img src="https://t1.blockdit.com/photos/2022/01/61e4dda6e36c9393ff2f8849_800x0xcover_KWpHBl7v.jpg" width="100">
+ <br>
+PPPE-089
+ <br>
+PPPE-085
+ <br>
+</details>
+
 ---
 
 ### L
